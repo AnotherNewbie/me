@@ -1,1 +1,10 @@
+background {
+  color:green;
+}
 
+h1 {
+  text-align:center;
+  color:orange;
+  font-family:"Times New Roman", serif;
+  font-size: 30px;
+}
