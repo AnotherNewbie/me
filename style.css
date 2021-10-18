@@ -1,11 +1,16 @@
-body{
-  background:coral;
-  margin:20px;
-}
-
 h1 {
   text-align:center;
   color:orange;
   font-family:"Times New Roman", serif;
   font-size: 30px;
+  background-color:cornflowerblue;
+}
+
+p {
+  font-family:Arial, sans-serif;
+  padding:5px;
+}
+
+li {
+  height:20px;
 }
