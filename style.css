@@ -15,3 +15,7 @@ li {
   height:20px;
   margin: 15px;
 }
+
+a:any-link {
+  color: purple;
+}
