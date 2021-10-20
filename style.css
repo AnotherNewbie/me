@@ -1,3 +1,4 @@
+/* Created by Michael Holthausen for Thinkful prep course, October 2021 */
 h1 {
   text-align:center;
   color:orange;
@@ -16,6 +17,7 @@ li {
   margin: 15px;
 }
 
+/* sets all links to stay blue even if visited*/
 a:any-link {
   color: blue;
 }
