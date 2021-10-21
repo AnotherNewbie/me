@@ -1,10 +1,10 @@
 /* Created by Michael Holthausen for Thinkful prep course, October 2021 */
 h1 {
   text-align:center;
-  color:orange;
+  color:#00CFFF;
   font-family:"Times New Roman", serif;
   font-size: 30px;
-  background-color:cornflowerblue;
+  background-color:#1C304A;
 }
 
 p {
@@ -17,7 +17,18 @@ li {
   margin: 15px;
 }
 
-/* sets all links to stay blue even if visited*/
-a:any-link {
-  color: blue;
+a:link{
+ color:#046B99; 
+}
+
+a:visited {
+  color: #1C304A;
+}
+
+a:hover {
+  color:#00CFFF;
+}
+
+a:active {
+  color:#B3EFFF;
 }
